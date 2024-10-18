@@ -1,16 +1,16 @@
-#Ex. No : 1
+##Ex. No : 1
 
-#IMPLEMENTATION OF SYMBOL TABLE
+##IMPLEMENTATION OF SYMBOL TABLE
 
-#Register Number :212223110061
+##Register Number :212223110061
 
-#NAME: S VENGADA KRISHNAN
+##NAME: S VENGADA KRISHNAN
 
-3AIM:
+##AIM:
 
 To write a C program to implement a symbol table.
 
-#ALGORITHM:
+##ALGORITHM:
 
 Start the program.
 Get the input from the user with the terminating symbol ‘$’.
@@ -20,7 +20,7 @@ While reading, the input symbol is inserted into symbol table along with its mem
 The steps are repeated till ‘$’ is reached.
 To reach a variable, enter the variable to be searched and symbol table has been checked for corresponding variable, the variable along with its address is displayed as result.
 Stop the program.
-#PROGRAM:
+##PROGRAM:
 ```
 #include <stdio.h> 
 #include <ctype.h> 
@@ -76,11 +76,11 @@ int main() {
 }
 ```
 
-#OUTPUT:
+##OUTPUT:
 
 
 ![image](https://github.com/user-attachments/assets/d091aaf9-3c0a-4b53-b7a6-40418c0d4d5a)
 
-#RESULT:
+##RESULT:
 
 The program to implement a symbol table is executed and the output is verified.
