@@ -2,7 +2,9 @@
 
 ## IMPLEMENTATION OF SYMBOL TABLE
 
-### Register Number : 212223110061
+## Register Number : 212223110061
+
+## NAME : S VENGADA KRISHNAN
 
 ## AIM:
 
